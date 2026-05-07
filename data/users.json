@@ -1,0 +1,23 @@
+[
+  {
+    "id": "1777761946334",
+    "name": "chiwendu",
+    "email": "pccharles59@gmail.com",
+    "passwordHash": "$2a$10$W7vbRiZRDq7S6xnrFHbkFeY5/uIGFtKO2kDmRyEVua5X7WhW6Co7i",
+    "createdAt": "2026-05-02T22:45:46.334Z"
+  },
+  {
+    "id": "1778020684195",
+    "name": "Test User",
+    "email": "testuser@example.com",
+    "passwordHash": "$2a$10$PEyClQAEhiSZYiyfz18gmOBfdUmBApc8WnNs1GAiO62LO7cR.nncm",
+    "createdAt": "2026-05-05T22:38:04.220Z"
+  },
+  {
+    "id": "1778022700009",
+    "name": "Auto User 1778022699325",
+    "email": "autouser1778022699325@example.com",
+    "passwordHash": "$2a$10$pYj./UeUTeIXdj8y.xzeXuBgEsiAzjRprJGazvQGujmQcLoDJcpPO",
+    "createdAt": "2026-05-05T23:11:40.009Z"
+  }
+]

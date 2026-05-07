@@ -1,0 +1,1 @@
+# Backend\n\nThis directory contains the JOBHACK backend API and server implementation.\n\n## Run locally\n1. cd backend\n2. npm install\n3. npm start\n\nThe backend serves frontend assets from `../frontend/public` and exposes `/api/*` endpoints.
